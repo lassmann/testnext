@@ -1,6 +1,6 @@
 1:HL["/nextjs-github-pages/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/nextjs-github-pages/_next/static/css/ffdced0882d7bc00.css","style",{"crossOrigin":""}]
-0:["Be1xahT4NdoTe_IIa31h0",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/nextjs-github-pages/_next/static/css/ffdced0882d7bc00.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/nextjs-github-pages/_next/static/css/0f346b010bdc9793.css","style",{"crossOrigin":""}]
+0:["YYdD3JhsRo1sWSAsf0gek",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/nextjs-github-pages/_next/static/css/0f346b010bdc9793.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["/nextjs-github-pages/_next/static/css/67a233dec2c9eccb.css","style",{"crossOrigin":""}]
 6:I[6954,[],""]
 7:I[7264,[],""]
